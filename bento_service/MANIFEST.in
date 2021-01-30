@@ -1,0 +1,2 @@
+include DogVCatService/bentoml.yml
+graft DogVCatService/artifacts
