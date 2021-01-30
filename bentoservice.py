@@ -3,7 +3,7 @@ from bentoml.adapters import FileInput
 from fastcore.utils import tuplify, detuplify
 
 import bentoml
-import datablock_utils
+import dogvscat_utils
 
 
 @bentoml.artifacts([FastaiModelArtifact('learner')])
